@@ -1,6 +1,6 @@
 # Hi, I'm Muskaan 
 
-CS(AI) Graduate from Heriot-Watt University Dubai (GPA: 3.88) — 
+CS(AI) Graduate from Heriot-Watt University Dubai (GPA: 3.88) - 
 I build machine learning systems that work on real data.
 
 My work spans clinical AI, biosignal processing, and 
@@ -11,9 +11,9 @@ UAE Golden Visa holder, available immediately.
 
 ## What I'm currently working on
 
-- **Clinical AI Research Assistant** — RAG pipeline over PubMed 
+- **Clinical AI Research Assistant** - RAG pipeline over PubMed 
   papers using LangChain + HuggingFace + FAISS, deployed on AWS
-- **EEG-EMG Fusion** (dissertation) — multimodal deep learning 
+- **EEG-EMG Fusion** (dissertation) - multimodal deep learning 
   for upper-limb movement decoding across 37 subjects
 
 ---
@@ -43,11 +43,11 @@ UAE Golden Visa holder, available immediately.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [EEG-EMG Fusion](https://github.com/muskaangarg280/eeg_emg_fusion_ml) | Multimodal deep learning for movement decoding — 84.1% accuracy (F1=0.842) | PyTorch · MNE-Python · EEGNet |
-| [BioTrackAI](https://github.com/muskaangarg280/biotrack-ai) | Heart attack risk prediction — stacked ensemble (RF + DNN + LogReg), deployed on Streamlit | PyTorch · Scikit-learn · Streamlit |
-| [Appendicitis Prediction](https://github.com/muskaangarg280/appendicitis-prediction) | Clinical MLP on 500+ real patient records — management ROC-AUC 0.950 | Scikit-learn · Pandas |
-| [Clinical AI RAG](https://github.com/muskaangarg280/clinical-ai-rag) | Research assistant over PubMed papers — LangChain + FAISS + AWS | LangChain · HuggingFace · Docker |
-| [Who Controls Space?](https://github.com/muskaangarg280/who-controls-space) | Interactive satellite data story — choropleth + bidirectional filters | D3.js · JavaScript |
+| [EEG-EMG Fusion](https://github.com/muskaangarg280/eeg_emg_fusion_ml) | Multimodal deep learning for movement decoding - 84.1% accuracy (F1=0.842) | PyTorch · MNE-Python · EEGNet |
+| [BioTrackAI](https://github.com/muskaangarg280/biotrack-ai) | Heart attack risk prediction - stacked ensemble (RF + DNN + LogReg), deployed on Streamlit | PyTorch · Scikit-learn · Streamlit |
+| [Appendicitis Prediction](https://github.com/muskaangarg280/appendicitis-prediction) | Clinical MLP on 500+ real patient records - management ROC-AUC 0.950 | Scikit-learn · Pandas |
+| [Clinical AI RAG](https://github.com/muskaangarg280/clinical-ai-rag) | Research assistant over PubMed papers - LangChain + FAISS + AWS | LangChain · HuggingFace · Docker |
+| [Who Controls Space?](https://github.com/muskaangarg280/who-controls-space) | Interactive satellite data story - choropleth + bidirectional filters | D3.js · JavaScript |
 
 ---
 
