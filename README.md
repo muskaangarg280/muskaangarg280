@@ -43,11 +43,10 @@ UAE Golden Visa holder, available immediately.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [EEG-EMG Fusion](https://github.com/muskaangarg280/eeg_emg_fusion_ml) | Multimodal deep learning for movement decoding - 84.1% accuracy (F1=0.842) | PyTorch · MNE-Python · EEGNet |
-| [BioTrackAI](https://github.com/muskaangarg280/biotrack-ai) | Heart attack risk prediction - stacked ensemble (RF + DNN + LogReg), deployed on Streamlit | PyTorch · Scikit-learn · Streamlit |
-| [Appendicitis Prediction](https://github.com/muskaangarg280/appendicitis-prediction) | Clinical MLP on 500+ real patient records - management ROC-AUC 0.950 | Scikit-learn · Pandas |
+| [EEG-EMG Fusion](https://github.com/EEG-EMG-Fusion/eeg_emg_fusion_ml) | Multimodal deep learning for movement decoding - 84.1% accuracy (F1=0.842) | PyTorch · MNE-Python · EEGNet |
+| [Appendicitis Prediction](https://github.com/muskaangarg280/Pediatric-Appendicitis-Prediction) | Clinical MLP on 500+ real patient records - management ROC-AUC 0.950 | Scikit-learn · Pandas |
 | [Clinical AI RAG](https://github.com/muskaangarg280/clinical-ai-rag) | Research assistant over PubMed papers - LangChain + FAISS + AWS | LangChain · HuggingFace · Docker |
-| [Who Controls Space?](https://github.com/muskaangarg280/who-controls-space) | Interactive satellite data story - choropleth + bidirectional filters | D3.js · JavaScript |
+| [Who Controls Space?](https://github.com/muskaangarg280/Satellite_Data_Visualisation) | Interactive satellite data story - choropleth + bidirectional filters | D3.js · JavaScript |
 
 ---
 
